@@ -41,6 +41,8 @@ ul{
 }
 .card{
     display: flex;
+    width: 45%;
+    background-color: aqua;
 }
 
 .content{
