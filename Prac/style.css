@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-around;
+    height: 100px;
+    align-items: center;
+}
+.logo{
+    height: 20px;
+   
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    gap: 10px;
+}
+.tile-image{
+    height: 200px;
+    width: 200px;
+}
+.main{
+    display: inline-flex;
+    align-items: center;
+    padding-left: 50px;
+    margin-left: 50px;
+   
+}
+.head{
+    font-size: 3rem;
+    margin: 50px;
+    padding: 50px;
+}
+.creative{
+    color: blueviolet;
+    
+}
+.card{
+    display: flex;
+}
+
+.content{
+    margin-top: 30px;
+    margin-left: 20px;
+   
+}
+.card-text{
+    margin-top: 20px;
+}
+
+
+footer{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: flex-end;
+    margin-top: 90px;
+}
