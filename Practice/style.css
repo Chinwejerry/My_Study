@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.nav{
+    display: flex;
+    height: 5vh;
+    margin-top: 5vh;
+    justify-content: space-around;
+}
+
+.main{
+    
+    margin-top: 30vh;
+    width: 150vh;
+   
+   
+
+}
+
+.title{
+    display: grid;
+    margin-left: 30vh;
+    
+    
+}
+p{
+    margin-left: 30vh;
+    width: 50vh;
+}
+
+img{
+    display: flex;
+   margin-top: -30vh;
+   margin-left: 100vh;
+   
+}
+.second{
+    margin-left: 30vh;
+    height: 30px;
+}
+button{
+    border-radius: 5px;
+    background-color: orangered;
+    color: white;
+    border: none;
+    width: 120px;
+}
+.logo{
+    color: orangered;
+}
+.cod{
+    color: orangered;
+}
